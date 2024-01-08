@@ -1,0 +1,43 @@
+
+.card-header-1{
+    background-color: rgb(4, 62, 101);
+    color: rgb(255, 255, 255);
+    padding-bottom: 13px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.row1{
+   // background-color: rgba(68, 157, 217, 0.127);
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.card-body-1{
+      background-color: rgba(68, 157, 217, 0.127);
+      padding-left: 15px;
+      padding-right: 15px;
+}
+.btn1{
+    background-color: rgb(4, 62, 101);
+    color: rgb(255, 255, 255);
+}
+.button-container {
+    text-align: center;
+}
+
+.align {
+    display: inline-block;
+    /* Add any other necessary styles */
+}
+.img{
+    height: 5%;
+    width: 5px;
+}
+.imageAvatar{
+    display: inline-block;
+    align-self: center;
+    justify-self: center;
+
+}
+

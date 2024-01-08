@@ -1,0 +1,19 @@
+.progress-bar-base{
+    background-color: rgba(208, 213, 236, 0.934);
+    border-radius: 8px;
+}
+.progress-bar{
+    height: 15px;
+    max-height: 15px;
+    width: 0px;
+    border-radius: 8px;
+}
+.progress-bar.red{
+    background-color: red;
+}
+.progress-bar.yellow{
+    background-color: rgb(230, 208, 5);
+}
+.progress-bar.green{
+    background-color: rgb(47, 179, 47);
+}

@@ -1,0 +1,189 @@
+[
+    {
+        "id":1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "designation": "Software Engineer",
+        "insuranceBalance": 5000,
+        "rbtProgress": 85,
+        "avatar":"https://th.bing.com/th/id/OIP.r8iZ5o7eVfFg5ebifTqqRAAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":19,
+        "firstName": "Alexander",
+        "lastName": "Nguyen",
+        "designation": "Database Administrator",
+        "insuranceBalance": 4900,
+        "rbtProgress": 77,
+        "avatar":"https://th.bing.com/th/id/OIP.QC2T6UoPS8sBGmePEMAMTAAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":13,
+        "firstName": "Isabella",
+        "lastName": "Hernandez",
+        "designation": "DevOps Engineer",
+        "insuranceBalance": 5100,
+        "rbtProgress": 72,
+        "avatar":"https://th.bing.com/th/id/OIP.uF_o-0VzLS5Yq2Yo7QVpNgAAAA?pid=ImgDet&w=88&h=99&c=7"
+    },
+    {
+        "id":11,
+        "firstName": "Lucas",
+        "lastName": "Martinez",
+        "designation": "Full Stack Developer",
+        "insuranceBalance": 5300,
+        "rbtProgress": 82,
+        "avatar":"https://th.bing.com/th/id/OIP.4kyLJD-izTobdTmRwU5bEAAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":17,
+        "firstName": "Benjamin",
+        "lastName": "Torres",
+        "designation": "Network Engineer",
+        "insuranceBalance": 5200,
+        "rbtProgress": 79,
+        "avatar":"https://th.bing.com/th/id/OIP.cqiYYhT5oR22JX_GVBlrGQAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":3,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "designation": "UX Designer",
+        "insuranceBalance": 7500,
+        "rbtProgress": 25,
+        "avatar":"https://th.bing.com/th/id/OIP.SDf2yZ5z8rGB8xvGG61yzQAAAA?pid=ImgDet&w=100&h=100&c=7"
+    },
+    {
+        "id":7,
+        "firstName": "Oliver",
+        "lastName": "Miller",
+        "designation": "UI/UX Designer",
+        "insuranceBalance": 5200,
+        "rbtProgress": 85,
+        "avatar":"https://th.bing.com/th/id/OIP.wiFNo5c-qtNnnjyNcbtnfQAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":5,
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "designation": "Project Manager",
+        "insuranceBalance": 3000,
+        "rbtProgress": 50,
+        "avatar":"https://th.bing.com/th/id/OIP.5fNvaAODz2ym-uMobmY_CAAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+
+
+    {
+        "id":2,
+        "firstName": "Charlotte",
+        "lastName": "Gonzalez",
+        "designation": "Product Designer",
+        "insuranceBalance": 5900,
+        "rbtProgress": 68,
+        "avatar":"https://shop.abacchus.fr/img/cms/avaF1.PNG"
+    },
+   
+    {
+        "id":4,
+        "firstName": "Bob",
+        "lastName": "Williams",
+        "designation": "Data Analyst",
+        "insuranceBalance": 6000,
+        "rbtProgress": 80,
+        "avatar":"https://th.bing.com/th/id/OIP.01G_7-MCleynH6xdIcqsUAAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":8, 
+        "firstName": "Sophia",
+        "lastName": "Garcia",
+        "designation": "Software Developer",
+        "insuranceBalance": 6500,
+        "rbtProgress": 70,
+        "avatar":"https://th.bing.com/th/id/OIP.GPt563vyRtyUSmn2M_JgWAAAAA?pid=ImgDet&w=112&h=118&c=7"
+    },
+    {
+        "id":9,
+        "firstName": "Liam",
+        "lastName": "Clark",
+        "designation": "Product Manager",
+        "insuranceBalance": 7000,
+        "rbtProgress": 33,
+        "avatar":"https://th.bing.com/th/id/OIP.IvNl8DEw6bP8olomupBXJwAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":10,
+        "firstName": "Ava",
+        "lastName": "Wilson",
+        "designation": "Data Scientist",
+        "insuranceBalance": 5500,
+        "rbtProgress": 78,
+        "avatar":"https://th.bing.com/th/id/OIP.3XL_PeFnwqMUPDIrwiP1AgAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+   
+    {
+        "id":12,
+        "firstName": "Windy",
+        "lastName": "Taylor",
+        "designation": "UX Researcher",
+        "insuranceBalance": 4200,
+        "rbtProgress": 68,
+        "avatar":"https://th.bing.com/th/id/OIP.YOfjN8DTwvESyPE18BPYVwAAAA?pid=ImgDet&w=100&h=100&c=7"
+    },
+    {
+        "id":12,
+        "firstName": "Noah",
+        "lastName": "Rodriguez",
+        "designation": "Backend Developer",
+        "insuranceBalance": 5900,
+        "rbtProgress": 75,
+        "avatar":"https://th.bing.com/th/id/OIP.2NzOjewWq4GMmG5KTj8k7QAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    
+    {
+        "id":14,
+        "firstName": "William",
+        "lastName": "Lopez",
+        "designation": "System Analyst",
+        "insuranceBalance": 4800,
+        "rbtProgress": 17,
+        "avatar":"https://th.bing.com/th/id/OIP.n0nTeHF3l5_uyl1mEvL59gAAAA?pid=ImgDet&w=100&h=125&c=7"
+    },
+    {
+        "id":15,
+        "firstName": "James",
+        "lastName": "Perez",
+        "designation": "Business Analyst",
+        "insuranceBalance": 4400,
+        "rbtProgress": 45,
+        "avatar":"https://icannwiki.org/images/thumb/b/b2/YassineJaouadCaricature.jpg/100px-YassineJaouadCaricature.jpg"
+    },
+    {
+        "id":16,
+        "firstName": "Amelia",
+        "lastName": "Sanchez",
+        "designation": "QA Tester",
+        "insuranceBalance": 4700,
+        "rbtProgress": 73,
+        "avatar":"https://th.bing.com/th/id/OIP.rANg4KWH84M-g-fAtfE88wAAAA?pid=ImgDet&w=100&h=100&c=7"
+    },
+    
+    {
+        "id":18,
+        "firstName": "Emma",
+        "lastName": "Rivera",
+        "designation": "Technical Writer",
+        "insuranceBalance": 4600,
+        "rbtProgress": 71,
+        "avatar":"https://shop.abacchus.fr/img/cms/avaF1.PNG"
+    },
+   
+    {
+        "id":20,
+        "firstName": "Omigo",
+        "lastName": "Anderson",
+        "designation": "Web Developer",
+        "insuranceBalance": 4900,
+        "rbtProgress": 30,
+        "avatar":"https://th.bing.com/th/id/OIP.7okdPh2-I5sujz768WJNtgAAAA?pid=ImgDet&w=100&h=100&c=7"
+    }
+]

@@ -1,0 +1,65 @@
+ <!-- 
+<div class="card">
+  <div class="card-header ">  
+          {{title}} 
+          <br/>
+          {{message}}
+    </div>
+-->
+<div class="container-flex">
+    <div class="card-body card-body-1">
+        <div class="row row1">
+            <div class="col-md-2">Designation Filter</div>
+            <div class="col-md-4">
+                <input type="text" [(ngModel)]="designationFilter" />
+            </div>
+        </div>
+  <div class="row row1">
+    <div class="col-md-6">
+        <h6>Filterd By: {{designationFilter}}</h6>
+    </div>
+  </div>
+  <div class="table-responsive" >
+    <table class="table" *ngIf="employees.length"> 
+        <thead>
+            <tr>
+                    <th class="button-container">
+                        <button class="btn btn1 align" (click)="toggleIcon()">
+                            {{ showIcon ? "Hide" : "Show" }} Image
+                        </button>
+                    </th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Designation</th>
+                <th>Insuarance Balance</th>
+                <th>RBT Progress</th>
+            </tr>
+        </thead>
+        <tbody>
+  <tr *ngFor="let employee of filteredEmployees">
+    <td>
+        <div>
+            <img [src]="employee.avatar" *ngIf="showIcon">
+        </div>
+        
+    </td>
+    <td>{{employee.firstName}}</td><!--interpolation-->
+    <td>{{employee.lastName}}</td>
+    <td>{{employee.designation}}</td>
+    <td>{{ employee.insuranceBalance | currency: "LKR " : "symbol" : "1.2-2" | lkrFormatter: "Rs:"}}</td><!--pipes-->
+    <!--<td>{{employee.rbtProgress}}</td>-->
+    <td><app-progress-bar  
+        [progress]="employee.rbtProgress"
+        [firstName]="employee.firstName"
+        (progressClick)="onMessageReceived($event)"
+        data-toggle="tooltip" data-placement="right" title="{{message}}"
+        ></app-progress-bar>  </td>
+  </tr>
+        </tbody>
+    </table>
+  
+  </div> 
+  </div>
+  
+ 
+</div>

@@ -1,0 +1,44 @@
+.navbar {
+    background-color: rgb(4, 62, 101);
+    padding: 1rem 0;
+  }
+
+  .navbar-brand {
+    color: #ffc107;
+    font-weight: bold;
+  }
+
+  .navbar-toggler {
+    border: none;
+    background-color: transparent;
+    color: white;
+  }
+
+  .navbar-toggler:focus {
+    outline: none;
+  }
+
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+
+  .navbar-nav {
+    margin-right: auto;
+  }
+
+  .nav-link {
+    color: white;
+    font-weight: bold;
+  }
+
+  .nav-link:hover {
+    color:  rgba(121, 157, 181, 0.332);
+  }
+
+  .nav-link.active {
+    color: #ffc107;
+  }
+
+  .nav-link.disabled {
+    color: rgba(255, 255, 255, 0.5);
+  }
